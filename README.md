@@ -58,4 +58,12 @@ If you would like to contribute to this project by suggesting any edits to the c
 
 No testing provided for this project.
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/31732675/216359474-86daedc4-f890-4841-baa0-242ca9812b99.png)
+
+## Link to page
+
+Click [here](https://cmizelle10.github.io/Password-Generator/) to visit page with deployed application.
+
 
